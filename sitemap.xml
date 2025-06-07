@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://dailykhabar.github.io/searchall/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://searchall.pages.dev/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://dailykhabar.github.io/searchall/</loc>
+<loc>https://searchall.pages.dev/</loc>
 </url>
 <url>
-<loc>https://dailykhabar.github.io/searchall/eid-mubarak-2025-best-wishes-quotes-and-messages-to-share.html</loc>
+<loc>https://searchall.pages.dev/eid-mubarak-2025-best-wishes-quotes-and-messages-to-share.html</loc>
 <lastmod>2025-06-07T13:14:15+05:30</lastmod>
 <image:image>
-<image:loc>https://dailykhabar.github.io/searchall/media/posts/1/Eid-Mubarak-2025-2.jpeg</image:loc>
+<image:loc>https://searchall.pages.dev/media/posts/1/Eid-Mubarak-2025-2.jpeg</image:loc>
 <image:title><![CDATA[Eid Mubarak 2025]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://dailykhabar.github.io/searchall/media/posts/1/Eid-Mubarak-2025.jpeg</image:loc>
+<image:loc>https://searchall.pages.dev/media/posts/1/Eid-Mubarak-2025.jpeg</image:loc>
 <image:title><![CDATA[Eid Mubarak 2025]]></image:title>
 </image:image>
 </url>
